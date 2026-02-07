@@ -21,4 +21,6 @@ A logic puzzle, yet a sensory game.
 It is not a game where you memorize answers,
 but a puzzle that can only be solved by understanding structure.
 
+(This puzzle was developed starting in the third year of middle school and has been worked on over the past two years since it was halted.)
+
 https://sites.google.com/view/puzzle-bace64game/%ED%99%88
